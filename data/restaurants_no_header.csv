@@ -1,0 +1,1000 @@
+1,Greek,medium,Oakwood,7:23,1,true
+2,Japanese,expensive,Oakwood,10:16,2,true
+3,Mediterranean,cheap,Sunset Hills,9:31,5,false
+4,Greek,cheap,Cedar Grove,11:08,1,true
+5,Greek,expensive,Meadowbrook,7:18,3,true
+6,French,cheap,Meadowbrook,7:56,3,true
+7,Italian,expensive,Lakeside,8:37,1,false
+8,French,medium,Riverdale,10:33,4,true
+9,Indian,cheap,Sunset Hills,12:55,1,true
+10,Japanese,cheap,Pine Ridge,12:36,1,true
+11,Mexican,expensive,Hillcrest,8:17,5,true
+12,Greek,expensive,Riverdale,9:30,5,true
+13,Indian,cheap,Meadowbrook,10:31,4,false
+14,Chinese,expensive,Meadowbrook,12:19,2,false
+15,French,expensive,Meadowbrook,10:19,1,false
+16,American,medium,Willow Creek,9:19,5,true
+17,Greek,medium,Cedar Grove,7:08,1,true
+18,Chinese,cheap,Maplewood,9:05,1,true
+19,Italian,cheap,Lakeside,10:20,5,false
+20,Greek,medium,Willow Creek,10:42,2,true
+21,Indian,expensive,Lakeside,8:54,1,true
+22,Italian,cheap,Cedar Grove,12:42,3,true
+23,Italian,expensive,Willow Creek,10:26,2,true
+24,Mexican,cheap,Maplewood,9:21,5,false
+25,Greek,expensive,Willow Creek,12:25,2,false
+26,Thai,cheap,Oakwood,8:08,5,false
+27,Japanese,cheap,Lakeside,10:50,2,false
+28,Italian,medium,Maplewood,7:09,2,false
+29,Chinese,expensive,Cedar Grove,10:38,3,false
+30,Mediterranean,cheap,Lakeside,8:32,5,false
+31,Mediterranean,cheap,Cedar Grove,7:35,1,true
+32,Indian,cheap,Meadowbrook,8:35,5,true
+33,American,cheap,Cedar Grove,10:05,1,true
+34,Japanese,expensive,Willow Creek,10:56,1,false
+35,Indian,expensive,Meadowbrook,7:16,4,true
+36,Chinese,cheap,Willow Creek,10:41,5,true
+37,Italian,cheap,Maplewood,11:22,1,true
+38,Indian,medium,Willow Creek,9:43,3,true
+39,Thai,medium,Willow Creek,9:08,2,true
+40,Thai,medium,Meadowbrook,7:37,5,true
+41,Thai,expensive,Riverdale,12:27,2,true
+42,Greek,medium,Sunset Hills,12:45,4,false
+43,American,medium,Hillcrest,10:27,4,false
+44,French,medium,Hillcrest,8:36,1,false
+45,Thai,expensive,Willow Creek,9:04,2,false
+46,French,cheap,Riverdale,12:13,3,true
+47,American,cheap,Lakeside,9:25,4,false
+48,American,cheap,Oakwood,7:15,5,false
+49,Thai,cheap,Lakeside,12:53,2,false
+50,Indian,expensive,Maplewood,11:33,2,false
+51,American,expensive,Lakeside,8:49,2,false
+52,Japanese,cheap,Willow Creek,10:00,1,false
+53,Japanese,cheap,Oakwood,10:44,2,false
+54,Chinese,expensive,Willow Creek,7:18,5,false
+55,Thai,medium,Sunset Hills,9:58,3,true
+56,Mediterranean,expensive,Sunset Hills,9:01,5,true
+57,Mexican,expensive,Maplewood,8:46,2,true
+58,Chinese,medium,Riverdale,11:51,2,true
+59,Mexican,cheap,Willow Creek,7:47,4,false
+60,Mediterranean,expensive,Hillcrest,10:23,3,true
+61,Italian,medium,Pine Ridge,10:50,3,false
+62,French,medium,Lakeside,8:37,4,false
+63,Italian,cheap,Meadowbrook,8:17,1,true
+64,Thai,expensive,Cedar Grove,10:05,3,true
+65,Mediterranean,medium,Sunset Hills,8:38,5,false
+66,Thai,expensive,Riverdale,10:35,3,true
+67,Greek,cheap,Oakwood,7:48,1,true
+68,French,cheap,Meadowbrook,7:09,2,true
+69,Mexican,cheap,Meadowbrook,10:58,2,true
+70,Indian,cheap,Maplewood,9:09,2,false
+71,Thai,medium,Oakwood,9:45,1,false
+72,American,cheap,Meadowbrook,9:52,1,false
+73,Chinese,medium,Pine Ridge,11:34,1,false
+74,Greek,cheap,Maplewood,12:54,5,false
+75,Mexican,medium,Hillcrest,7:33,4,false
+76,Chinese,cheap,Riverdale,11:54,1,false
+77,Greek,medium,Cedar Grove,9:52,3,false
+78,Mexican,cheap,Willow Creek,10:30,3,true
+79,French,medium,Willow Creek,10:06,3,false
+80,French,expensive,Sunset Hills,8:42,4,true
+81,American,expensive,Riverdale,8:59,4,true
+82,American,expensive,Willow Creek,10:17,1,true
+83,Chinese,expensive,Pine Ridge,9:39,3,true
+84,Greek,expensive,Pine Ridge,8:12,3,false
+85,Indian,medium,Maplewood,8:32,1,false
+86,Indian,expensive,Riverdale,8:08,1,true
+87,Mediterranean,medium,Meadowbrook,11:33,4,false
+88,French,cheap,Sunset Hills,9:38,1,false
+89,Thai,expensive,Oakwood,12:19,5,true
+90,Mediterranean,medium,Riverdale,11:32,5,true
+91,Mexican,medium,Maplewood,8:41,1,true
+92,Mediterranean,expensive,Meadowbrook,11:58,4,false
+93,Japanese,expensive,Hillcrest,12:02,3,true
+94,Italian,cheap,Sunset Hills,8:43,3,true
+95,Mediterranean,medium,Hillcrest,8:40,1,true
+96,Mexican,expensive,Maplewood,8:18,2,false
+97,Japanese,expensive,Hillcrest,12:16,5,true
+98,Mexican,medium,Lakeside,8:42,4,false
+99,Mediterranean,medium,Oakwood,8:05,4,true
+100,Japanese,medium,Willow Creek,7:36,5,true
+101,Mexican,expensive,Maplewood,12:28,3,true
+102,American,cheap,Cedar Grove,7:10,4,true
+103,French,medium,Oakwood,7:16,5,false
+104,Italian,medium,Cedar Grove,12:42,5,true
+105,Greek,cheap,Oakwood,9:30,4,false
+106,Indian,cheap,Meadowbrook,8:39,4,true
+107,Japanese,expensive,Cedar Grove,7:38,2,false
+108,Greek,cheap,Pine Ridge,10:49,5,false
+109,American,expensive,Meadowbrook,8:50,4,true
+110,Italian,medium,Riverdale,12:03,1,false
+111,Japanese,cheap,Hillcrest,9:35,3,true
+112,Indian,expensive,Maplewood,9:32,1,false
+113,Thai,expensive,Maplewood,11:28,5,false
+114,French,expensive,Pine Ridge,7:19,1,true
+115,American,cheap,Cedar Grove,12:12,1,true
+116,Chinese,expensive,Hillcrest,8:30,1,true
+117,American,cheap,Cedar Grove,9:25,3,false
+118,Indian,medium,Cedar Grove,8:19,4,true
+119,Mediterranean,medium,Oakwood,10:28,5,false
+120,French,medium,Hillcrest,12:31,3,true
+121,Mediterranean,expensive,Cedar Grove,7:45,4,false
+122,French,cheap,Pine Ridge,11:26,1,false
+123,Indian,cheap,Pine Ridge,10:04,3,true
+124,American,cheap,Sunset Hills,8:54,5,false
+125,Mexican,expensive,Hillcrest,9:07,3,true
+126,American,cheap,Oakwood,7:15,4,false
+127,Italian,expensive,Oakwood,8:27,3,true
+128,Indian,cheap,Lakeside,8:54,3,true
+129,Thai,cheap,Lakeside,11:10,1,false
+130,Indian,cheap,Willow Creek,11:25,2,false
+131,Chinese,cheap,Sunset Hills,11:54,2,true
+132,Chinese,medium,Hillcrest,9:03,4,true
+133,American,cheap,Cedar Grove,11:08,3,true
+134,American,expensive,Lakeside,10:25,2,true
+135,American,expensive,Hillcrest,10:12,4,true
+136,Mexican,expensive,Maplewood,8:45,2,false
+137,Chinese,expensive,Maplewood,9:57,1,true
+138,Chinese,expensive,Willow Creek,10:02,4,true
+139,Indian,expensive,Lakeside,7:22,4,true
+140,Greek,cheap,Riverdale,12:40,5,true
+141,Greek,cheap,Meadowbrook,8:11,1,true
+142,Mexican,expensive,Sunset Hills,8:39,5,true
+143,Italian,cheap,Pine Ridge,7:30,3,false
+144,Thai,medium,Sunset Hills,8:14,4,false
+145,Greek,cheap,Lakeside,7:56,3,true
+146,Mediterranean,cheap,Maplewood,11:26,3,true
+147,American,cheap,Sunset Hills,8:05,4,true
+148,Mediterranean,medium,Riverdale,9:50,5,false
+149,Chinese,medium,Hillcrest,11:00,3,false
+150,Japanese,medium,Hillcrest,8:01,1,false
+151,Mexican,expensive,Maplewood,10:13,3,false
+152,French,expensive,Willow Creek,11:26,4,true
+153,Chinese,cheap,Meadowbrook,7:28,1,false
+154,Indian,cheap,Oakwood,10:40,5,false
+155,Mexican,expensive,Pine Ridge,11:01,5,false
+156,Mexican,cheap,Oakwood,10:35,4,false
+157,French,medium,Riverdale,8:49,2,false
+158,Japanese,expensive,Oakwood,12:17,1,false
+159,French,cheap,Oakwood,9:57,2,false
+160,Thai,expensive,Pine Ridge,12:19,5,true
+161,Italian,cheap,Lakeside,7:03,4,true
+162,Thai,cheap,Oakwood,8:31,2,false
+163,Italian,medium,Oakwood,12:16,1,false
+164,Greek,expensive,Riverdale,11:08,1,true
+165,French,medium,Sunset Hills,11:33,5,true
+166,Italian,expensive,Riverdale,8:10,4,true
+167,American,cheap,Lakeside,9:47,4,false
+168,Chinese,medium,Pine Ridge,8:15,1,false
+169,Mexican,expensive,Pine Ridge,10:43,4,false
+170,Indian,cheap,Hillcrest,11:52,1,false
+171,American,cheap,Hillcrest,7:45,3,true
+172,Mediterranean,expensive,Pine Ridge,8:17,1,false
+173,Mediterranean,medium,Lakeside,7:23,1,true
+174,Chinese,medium,Maplewood,9:16,4,false
+175,French,medium,Hillcrest,10:46,1,false
+176,American,medium,Meadowbrook,12:56,5,true
+177,Mediterranean,cheap,Riverdale,7:37,2,true
+178,Mediterranean,cheap,Pine Ridge,10:29,3,false
+179,French,medium,Willow Creek,7:29,1,false
+180,American,medium,Cedar Grove,7:58,2,false
+181,Mediterranean,cheap,Riverdale,10:16,2,false
+182,Italian,expensive,Sunset Hills,10:13,3,false
+183,Italian,cheap,Lakeside,8:48,2,true
+184,Japanese,cheap,Riverdale,11:29,1,false
+185,Indian,expensive,Sunset Hills,7:44,4,false
+186,French,expensive,Willow Creek,8:20,3,false
+187,Italian,medium,Cedar Grove,12:35,5,true
+188,French,expensive,Meadowbrook,8:32,1,false
+189,Indian,medium,Riverdale,7:14,1,false
+190,Mediterranean,expensive,Maplewood,8:49,3,false
+191,Italian,medium,Lakeside,12:54,3,true
+192,Japanese,medium,Maplewood,8:35,3,true
+193,Japanese,medium,Sunset Hills,10:24,3,false
+194,Italian,cheap,Maplewood,8:23,5,true
+195,Japanese,cheap,Hillcrest,7:59,5,false
+196,Greek,expensive,Cedar Grove,7:30,2,true
+197,Chinese,expensive,Riverdale,9:47,3,false
+198,Indian,expensive,Hillcrest,8:41,4,true
+199,Indian,medium,Pine Ridge,9:13,1,false
+200,French,cheap,Hillcrest,12:15,3,true
+201,Greek,expensive,Maplewood,12:40,1,true
+202,French,expensive,Maplewood,12:16,1,true
+203,Italian,expensive,Meadowbrook,9:50,4,true
+204,Thai,expensive,Sunset Hills,10:37,1,true
+205,Thai,medium,Oakwood,8:14,2,false
+206,Thai,expensive,Hillcrest,10:58,3,false
+207,Mediterranean,medium,Maplewood,10:07,3,true
+208,Chinese,cheap,Cedar Grove,10:59,1,false
+209,Thai,cheap,Oakwood,7:56,5,false
+210,Indian,expensive,Oakwood,11:19,1,false
+211,French,expensive,Cedar Grove,12:55,2,false
+212,American,expensive,Pine Ridge,10:27,4,false
+213,Mexican,cheap,Riverdale,8:14,3,true
+214,Indian,medium,Riverdale,7:27,2,false
+215,Italian,expensive,Sunset Hills,9:03,5,false
+216,French,expensive,Cedar Grove,10:04,1,true
+217,French,expensive,Meadowbrook,8:25,2,true
+218,Indian,cheap,Lakeside,11:57,2,false
+219,French,medium,Willow Creek,10:04,2,true
+220,American,medium,Maplewood,8:25,1,true
+221,Mediterranean,cheap,Hillcrest,12:49,1,true
+222,Indian,expensive,Meadowbrook,9:27,2,true
+223,American,cheap,Lakeside,9:43,5,false
+224,Greek,cheap,Maplewood,11:17,4,false
+225,Italian,cheap,Pine Ridge,10:39,5,false
+226,Greek,medium,Willow Creek,11:24,1,true
+227,Greek,expensive,Maplewood,11:02,3,true
+228,Mexican,medium,Lakeside,10:47,5,true
+229,Thai,cheap,Oakwood,9:05,3,true
+230,Mexican,expensive,Hillcrest,7:58,3,true
+231,Thai,cheap,Meadowbrook,11:31,4,true
+232,Chinese,expensive,Meadowbrook,11:24,3,true
+233,Thai,cheap,Meadowbrook,7:54,2,true
+234,Greek,cheap,Meadowbrook,12:05,1,false
+235,French,expensive,Hillcrest,12:09,3,true
+236,Indian,expensive,Oakwood,11:27,3,true
+237,Thai,expensive,Maplewood,7:50,5,false
+238,Chinese,expensive,Cedar Grove,8:22,1,true
+239,Italian,medium,Sunset Hills,8:44,1,false
+240,Mediterranean,expensive,Willow Creek,7:38,1,false
+241,Indian,expensive,Hillcrest,10:08,5,true
+242,French,medium,Cedar Grove,8:21,4,false
+243,Italian,cheap,Cedar Grove,9:41,5,true
+244,Mediterranean,expensive,Hillcrest,7:36,5,true
+245,Thai,medium,Sunset Hills,9:41,4,false
+246,Indian,medium,Hillcrest,11:38,3,true
+247,Mediterranean,expensive,Meadowbrook,9:16,5,true
+248,American,cheap,Hillcrest,12:29,4,true
+249,Indian,cheap,Lakeside,8:22,2,false
+250,French,medium,Pine Ridge,10:10,5,false
+251,French,medium,Lakeside,11:40,4,false
+252,Greek,expensive,Oakwood,12:04,4,true
+253,Japanese,cheap,Oakwood,8:15,5,false
+254,American,medium,Lakeside,11:12,5,true
+255,Italian,medium,Pine Ridge,11:03,1,false
+256,Thai,cheap,Riverdale,11:17,3,false
+257,Indian,expensive,Lakeside,8:43,4,true
+258,Thai,cheap,Meadowbrook,7:24,5,true
+259,Indian,expensive,Pine Ridge,7:59,1,true
+260,Mexican,expensive,Sunset Hills,12:16,1,true
+261,Chinese,medium,Maplewood,10:51,3,false
+262,Japanese,expensive,Maplewood,8:44,2,true
+263,Mexican,expensive,Maplewood,12:43,2,true
+264,Thai,expensive,Pine Ridge,8:04,5,true
+265,Mexican,cheap,Riverdale,11:07,3,true
+266,Indian,medium,Meadowbrook,10:35,5,true
+267,Mediterranean,expensive,Oakwood,7:30,5,true
+268,Thai,expensive,Maplewood,10:02,5,false
+269,Japanese,expensive,Pine Ridge,7:11,5,true
+270,Mediterranean,medium,Hillcrest,7:56,4,false
+271,Indian,cheap,Meadowbrook,11:00,1,true
+272,Mediterranean,cheap,Meadowbrook,10:05,1,false
+273,Japanese,expensive,Meadowbrook,12:49,4,true
+274,Mexican,medium,Oakwood,8:07,4,false
+275,Indian,expensive,Maplewood,10:16,5,true
+276,Japanese,expensive,Cedar Grove,8:21,2,true
+277,Mediterranean,cheap,Oakwood,8:28,1,true
+278,Italian,medium,Cedar Grove,9:05,4,false
+279,American,cheap,Maplewood,9:01,3,true
+280,Indian,expensive,Cedar Grove,9:30,5,true
+281,Mexican,expensive,Sunset Hills,8:44,4,true
+282,Chinese,medium,Riverdale,11:59,5,true
+283,Mexican,medium,Hillcrest,9:00,5,true
+284,Chinese,expensive,Hillcrest,10:48,2,false
+285,Indian,cheap,Oakwood,10:49,3,false
+286,Italian,medium,Willow Creek,12:44,1,true
+287,Italian,medium,Sunset Hills,12:03,2,false
+288,Indian,expensive,Oakwood,7:35,3,true
+289,Mediterranean,cheap,Willow Creek,8:56,5,true
+290,Mexican,expensive,Hillcrest,7:58,5,true
+291,Thai,medium,Hillcrest,10:22,1,false
+292,Thai,medium,Meadowbrook,8:33,3,false
+293,Chinese,medium,Oakwood,9:12,3,false
+294,Indian,cheap,Pine Ridge,10:31,4,false
+295,Mediterranean,expensive,Lakeside,7:32,2,true
+296,Indian,expensive,Willow Creek,10:31,5,true
+297,Greek,medium,Maplewood,8:53,3,true
+298,Indian,medium,Riverdale,11:14,1,false
+299,American,cheap,Pine Ridge,10:40,3,true
+300,Thai,cheap,Meadowbrook,10:44,4,true
+301,Chinese,expensive,Oakwood,7:19,3,false
+302,Indian,expensive,Pine Ridge,12:32,1,true
+303,Mexican,medium,Cedar Grove,9:52,1,false
+304,Thai,expensive,Cedar Grove,10:30,1,true
+305,Japanese,medium,Lakeside,10:15,4,false
+306,Chinese,medium,Oakwood,8:32,1,false
+307,Chinese,medium,Hillcrest,8:15,3,true
+308,Italian,medium,Maplewood,11:49,2,true
+309,French,cheap,Maplewood,10:24,4,false
+310,Chinese,cheap,Cedar Grove,10:56,3,false
+311,Chinese,cheap,Hillcrest,12:01,4,false
+312,Greek,medium,Pine Ridge,12:30,1,true
+313,Indian,expensive,Meadowbrook,9:12,2,true
+314,Greek,medium,Cedar Grove,12:28,1,false
+315,French,cheap,Willow Creek,10:35,3,true
+316,Greek,cheap,Willow Creek,10:54,1,true
+317,French,medium,Pine Ridge,9:44,2,true
+318,Mediterranean,expensive,Sunset Hills,7:26,2,true
+319,Japanese,expensive,Cedar Grove,11:48,2,true
+320,Thai,cheap,Riverdale,11:46,1,true
+321,Chinese,expensive,Hillcrest,8:20,2,false
+322,American,cheap,Riverdale,9:30,2,true
+323,Japanese,expensive,Pine Ridge,9:52,2,true
+324,Chinese,medium,Oakwood,8:56,2,false
+325,American,medium,Lakeside,8:52,3,false
+326,French,medium,Oakwood,10:25,2,true
+327,French,expensive,Cedar Grove,10:19,4,true
+328,Greek,medium,Riverdale,9:30,4,true
+329,Chinese,expensive,Maplewood,7:13,3,true
+330,Greek,medium,Maplewood,8:49,3,false
+331,Italian,expensive,Oakwood,7:35,1,true
+332,French,medium,Oakwood,9:15,5,true
+333,Chinese,expensive,Lakeside,12:45,5,true
+334,Japanese,medium,Sunset Hills,12:22,5,false
+335,Indian,medium,Pine Ridge,11:51,2,false
+336,Chinese,expensive,Hillcrest,11:02,5,false
+337,Japanese,medium,Hillcrest,9:14,2,false
+338,Thai,expensive,Oakwood,12:44,2,true
+339,Thai,medium,Lakeside,12:31,4,false
+340,American,expensive,Sunset Hills,10:22,4,false
+341,Chinese,medium,Hillcrest,12:33,1,false
+342,Mediterranean,cheap,Oakwood,11:54,4,false
+343,Italian,expensive,Oakwood,12:35,5,false
+344,Greek,medium,Sunset Hills,8:08,5,false
+345,Italian,cheap,Cedar Grove,11:06,1,true
+346,Indian,expensive,Hillcrest,8:53,1,true
+347,Mexican,cheap,Riverdale,10:04,4,true
+348,Chinese,expensive,Meadowbrook,12:18,4,false
+349,Chinese,medium,Cedar Grove,10:44,2,false
+350,French,cheap,Meadowbrook,12:09,1,true
+351,Japanese,medium,Maplewood,7:35,4,true
+352,French,medium,Willow Creek,12:11,5,false
+353,American,medium,Meadowbrook,8:17,2,false
+354,Mediterranean,medium,Willow Creek,8:11,5,false
+355,Chinese,medium,Hillcrest,10:03,1,false
+356,Italian,cheap,Riverdale,12:20,2,true
+357,Mediterranean,medium,Maplewood,8:31,3,true
+358,Thai,expensive,Meadowbrook,11:03,2,false
+359,French,medium,Willow Creek,9:18,4,true
+360,Greek,expensive,Cedar Grove,7:58,2,true
+361,French,cheap,Willow Creek,10:27,4,true
+362,Mediterranean,expensive,Cedar Grove,7:51,2,true
+363,American,expensive,Riverdale,12:36,1,true
+364,American,expensive,Sunset Hills,8:48,1,false
+365,American,medium,Meadowbrook,9:12,4,false
+366,French,expensive,Lakeside,7:27,4,false
+367,Chinese,medium,Willow Creek,9:53,1,false
+368,Greek,cheap,Cedar Grove,12:31,4,false
+369,Thai,expensive,Willow Creek,10:32,1,true
+370,American,medium,Willow Creek,8:04,1,false
+371,Japanese,cheap,Riverdale,12:02,4,true
+372,Italian,cheap,Sunset Hills,7:19,3,true
+373,Mexican,medium,Lakeside,9:58,2,false
+374,Thai,medium,Hillcrest,9:03,2,false
+375,Thai,medium,Maplewood,8:05,3,false
+376,Japanese,cheap,Lakeside,9:03,2,true
+377,Italian,expensive,Oakwood,10:38,2,false
+378,French,expensive,Pine Ridge,12:31,1,true
+379,Italian,medium,Lakeside,11:50,1,true
+380,Italian,cheap,Riverdale,9:33,2,true
+381,French,cheap,Hillcrest,9:48,1,true
+382,American,medium,Pine Ridge,8:29,4,false
+383,Japanese,expensive,Willow Creek,8:06,4,false
+384,Greek,expensive,Maplewood,11:04,4,false
+385,Indian,cheap,Cedar Grove,9:05,5,false
+386,Japanese,medium,Willow Creek,12:18,1,true
+387,Japanese,medium,Hillcrest,7:19,5,true
+388,Italian,cheap,Willow Creek,11:14,3,false
+389,Indian,cheap,Maplewood,10:24,4,false
+390,Mexican,expensive,Lakeside,10:41,4,true
+391,Thai,expensive,Riverdale,7:23,1,true
+392,Mediterranean,cheap,Sunset Hills,8:28,1,true
+393,Thai,cheap,Lakeside,12:06,4,false
+394,Italian,cheap,Cedar Grove,10:56,1,false
+395,French,expensive,Willow Creek,10:03,5,true
+396,Mexican,cheap,Lakeside,8:39,1,false
+397,Chinese,medium,Cedar Grove,10:41,2,false
+398,Thai,medium,Meadowbrook,9:52,1,false
+399,American,cheap,Pine Ridge,9:55,2,true
+400,American,expensive,Sunset Hills,12:55,5,false
+401,Chinese,expensive,Cedar Grove,12:18,4,true
+402,Greek,cheap,Oakwood,10:24,3,false
+403,French,medium,Lakeside,11:06,3,true
+404,Thai,medium,Cedar Grove,10:57,3,true
+405,Indian,cheap,Hillcrest,12:29,3,false
+406,French,medium,Oakwood,12:24,1,false
+407,Mexican,medium,Pine Ridge,11:41,2,false
+408,American,medium,Cedar Grove,11:51,3,true
+409,Mediterranean,medium,Sunset Hills,12:02,4,true
+410,Indian,cheap,Maplewood,8:04,4,false
+411,Mediterranean,medium,Lakeside,10:55,2,false
+412,Thai,medium,Hillcrest,11:15,2,false
+413,Thai,medium,Lakeside,8:40,3,false
+414,Greek,cheap,Riverdale,12:52,2,true
+415,Chinese,medium,Maplewood,7:42,2,true
+416,Mediterranean,cheap,Meadowbrook,8:37,5,false
+417,Mediterranean,cheap,Maplewood,12:18,2,true
+418,Japanese,medium,Sunset Hills,7:51,4,false
+419,Mediterranean,medium,Oakwood,10:46,2,true
+420,Indian,expensive,Willow Creek,9:02,1,true
+421,French,expensive,Hillcrest,9:45,2,false
+422,American,medium,Pine Ridge,9:54,3,false
+423,Greek,medium,Pine Ridge,11:29,5,true
+424,French,medium,Cedar Grove,10:38,2,true
+425,American,medium,Riverdale,12:33,3,true
+426,Mexican,cheap,Cedar Grove,12:00,3,false
+427,Mexican,expensive,Riverdale,7:21,3,true
+428,Thai,medium,Pine Ridge,12:24,4,true
+429,Chinese,cheap,Lakeside,9:15,5,false
+430,Mexican,expensive,Pine Ridge,10:34,1,false
+431,Greek,medium,Lakeside,12:08,1,true
+432,Thai,medium,Willow Creek,8:10,4,false
+433,American,medium,Willow Creek,9:30,3,true
+434,Chinese,cheap,Meadowbrook,11:18,5,false
+435,Indian,cheap,Oakwood,11:40,2,true
+436,Indian,expensive,Sunset Hills,12:49,3,false
+437,American,expensive,Sunset Hills,11:23,2,true
+438,Thai,medium,Riverdale,12:27,2,false
+439,Thai,medium,Riverdale,11:53,4,false
+440,Mexican,medium,Cedar Grove,9:51,4,false
+441,Italian,medium,Pine Ridge,11:55,4,false
+442,Japanese,cheap,Maplewood,7:33,2,false
+443,Mexican,cheap,Lakeside,11:36,5,true
+444,Italian,cheap,Riverdale,7:11,1,false
+445,French,cheap,Meadowbrook,11:25,5,false
+446,Mediterranean,medium,Sunset Hills,9:20,4,true
+447,Italian,medium,Lakeside,7:33,4,true
+448,Italian,expensive,Willow Creek,10:16,2,false
+449,French,expensive,Lakeside,7:59,5,false
+450,Chinese,medium,Riverdale,9:59,5,true
+451,French,medium,Willow Creek,12:01,4,false
+452,Italian,cheap,Hillcrest,12:06,1,true
+453,Thai,cheap,Oakwood,7:18,2,false
+454,Chinese,medium,Meadowbrook,10:51,2,true
+455,Greek,medium,Hillcrest,11:05,3,false
+456,French,cheap,Maplewood,7:04,2,true
+457,Greek,medium,Meadowbrook,11:51,3,false
+458,Mediterranean,medium,Hillcrest,9:14,3,false
+459,Chinese,expensive,Willow Creek,11:21,3,true
+460,Mexican,cheap,Lakeside,7:51,3,true
+461,Thai,expensive,Hillcrest,8:32,3,true
+462,Indian,cheap,Willow Creek,7:06,4,true
+463,Thai,medium,Sunset Hills,10:39,2,true
+464,Mediterranean,expensive,Lakeside,9:48,3,false
+465,Chinese,medium,Cedar Grove,7:19,2,false
+466,Italian,cheap,Maplewood,8:22,5,false
+467,Japanese,cheap,Sunset Hills,9:24,5,false
+468,Chinese,expensive,Sunset Hills,10:06,4,true
+469,Thai,cheap,Pine Ridge,10:31,2,true
+470,Japanese,cheap,Hillcrest,9:56,3,false
+471,Thai,cheap,Cedar Grove,8:06,3,false
+472,Chinese,medium,Sunset Hills,8:57,2,false
+473,Mexican,medium,Willow Creek,11:27,3,false
+474,Indian,cheap,Meadowbrook,8:00,2,true
+475,Japanese,expensive,Pine Ridge,11:07,1,true
+476,Thai,medium,Sunset Hills,10:53,3,true
+477,Mexican,expensive,Cedar Grove,7:49,2,false
+478,Greek,medium,Oakwood,12:42,4,true
+479,Thai,medium,Maplewood,12:17,4,false
+480,Italian,cheap,Willow Creek,12:31,5,false
+481,Indian,medium,Willow Creek,7:01,4,false
+482,Mexican,expensive,Pine Ridge,8:55,5,false
+483,Italian,expensive,Riverdale,11:52,1,true
+484,Mediterranean,cheap,Lakeside,7:24,2,false
+485,Mediterranean,cheap,Pine Ridge,10:40,4,true
+486,Japanese,expensive,Sunset Hills,8:48,4,true
+487,Indian,medium,Maplewood,12:41,3,true
+488,Indian,cheap,Meadowbrook,9:25,4,false
+489,Italian,medium,Willow Creek,8:36,2,true
+490,Italian,medium,Cedar Grove,8:56,5,false
+491,American,expensive,Riverdale,12:41,1,true
+492,Thai,cheap,Riverdale,7:12,5,true
+493,Greek,cheap,Sunset Hills,7:29,3,true
+494,Greek,expensive,Lakeside,9:56,3,true
+495,Greek,expensive,Maplewood,12:31,3,true
+496,American,expensive,Cedar Grove,10:30,4,true
+497,Indian,expensive,Pine Ridge,11:43,3,false
+498,Mexican,medium,Riverdale,11:47,5,false
+499,Japanese,cheap,Willow Creek,10:54,3,true
+500,Japanese,expensive,Willow Creek,9:58,2,false
+501,French,medium,Sunset Hills,11:36,2,false
+502,Chinese,expensive,Maplewood,12:22,3,true
+503,Mexican,medium,Maplewood,11:35,3,true
+504,Greek,expensive,Lakeside,9:31,4,true
+505,Greek,medium,Cedar Grove,11:10,3,true
+506,Italian,medium,Riverdale,9:11,2,false
+507,Indian,medium,Oakwood,11:15,1,false
+508,French,cheap,Meadowbrook,8:12,2,true
+509,American,medium,Hillcrest,7:28,3,true
+510,Thai,medium,Riverdale,9:53,2,true
+511,Chinese,expensive,Riverdale,7:59,1,true
+512,Mediterranean,expensive,Hillcrest,11:21,5,false
+513,Thai,cheap,Cedar Grove,7:36,5,true
+514,French,medium,Oakwood,9:42,2,true
+515,Indian,expensive,Pine Ridge,10:25,3,true
+516,Japanese,cheap,Willow Creek,10:42,1,true
+517,Mediterranean,cheap,Cedar Grove,10:59,3,true
+518,Japanese,medium,Cedar Grove,8:05,4,true
+519,Mediterranean,medium,Cedar Grove,7:08,2,true
+520,French,expensive,Willow Creek,8:11,5,false
+521,American,medium,Willow Creek,10:03,2,false
+522,Thai,expensive,Cedar Grove,7:47,4,false
+523,Chinese,expensive,Oakwood,10:58,2,false
+524,Chinese,expensive,Maplewood,12:23,1,true
+525,Japanese,expensive,Meadowbrook,11:21,2,true
+526,Greek,expensive,Lakeside,12:45,3,false
+527,Thai,cheap,Pine Ridge,12:14,5,false
+528,American,expensive,Pine Ridge,7:55,5,true
+529,Thai,cheap,Cedar Grove,11:22,5,false
+530,Greek,medium,Oakwood,10:26,2,false
+531,Mediterranean,medium,Maplewood,10:51,4,false
+532,Italian,medium,Cedar Grove,11:27,3,true
+533,Mediterranean,expensive,Hillcrest,8:12,3,false
+534,Indian,cheap,Pine Ridge,12:32,1,false
+535,Indian,medium,Pine Ridge,11:01,1,false
+536,Chinese,medium,Willow Creek,8:09,4,false
+537,Mediterranean,medium,Lakeside,8:50,1,false
+538,American,expensive,Pine Ridge,11:29,3,false
+539,Indian,expensive,Maplewood,11:51,1,false
+540,Mexican,cheap,Meadowbrook,9:20,5,false
+541,Chinese,cheap,Hillcrest,10:04,3,false
+542,American,cheap,Lakeside,7:25,5,false
+543,Greek,medium,Riverdale,7:49,3,true
+544,American,cheap,Lakeside,11:21,3,false
+545,Thai,expensive,Hillcrest,9:38,5,false
+546,Chinese,expensive,Hillcrest,8:51,1,true
+547,American,expensive,Meadowbrook,9:35,3,false
+548,Chinese,medium,Oakwood,10:28,3,false
+549,Mediterranean,medium,Meadowbrook,11:31,5,true
+550,Italian,expensive,Lakeside,9:34,5,true
+551,Italian,cheap,Cedar Grove,10:57,1,true
+552,Mexican,expensive,Riverdale,12:30,4,true
+553,Italian,medium,Riverdale,9:09,4,true
+554,Italian,cheap,Meadowbrook,7:08,3,true
+555,Japanese,cheap,Sunset Hills,9:56,4,false
+556,Mexican,expensive,Pine Ridge,8:39,4,false
+557,Thai,expensive,Riverdale,9:06,2,true
+558,Italian,expensive,Willow Creek,10:02,5,true
+559,American,cheap,Cedar Grove,12:52,2,false
+560,Mediterranean,medium,Hillcrest,12:31,5,true
+561,Indian,medium,Willow Creek,9:51,2,true
+562,Mediterranean,expensive,Riverdale,12:13,5,false
+563,French,expensive,Sunset Hills,8:49,1,false
+564,American,expensive,Pine Ridge,10:28,4,true
+565,Thai,expensive,Hillcrest,11:33,2,false
+566,Mediterranean,expensive,Meadowbrook,12:40,2,false
+567,Thai,expensive,Riverdale,11:38,2,true
+568,Thai,expensive,Sunset Hills,12:39,1,false
+569,American,expensive,Willow Creek,7:11,2,true
+570,French,cheap,Pine Ridge,11:57,4,false
+571,Greek,cheap,Lakeside,10:31,1,true
+572,Japanese,expensive,Sunset Hills,7:27,1,false
+573,Indian,expensive,Cedar Grove,10:10,4,true
+574,Italian,cheap,Lakeside,8:40,3,true
+575,Mexican,cheap,Lakeside,11:23,3,true
+576,Chinese,cheap,Sunset Hills,12:06,5,true
+577,Greek,expensive,Meadowbrook,10:28,4,false
+578,Indian,medium,Pine Ridge,10:59,3,true
+579,Chinese,expensive,Oakwood,10:13,4,false
+580,Chinese,medium,Hillcrest,12:52,4,true
+581,French,medium,Sunset Hills,12:43,3,false
+582,American,expensive,Pine Ridge,10:21,4,true
+583,French,cheap,Hillcrest,9:09,1,true
+584,Mediterranean,medium,Sunset Hills,8:48,1,true
+585,American,expensive,Maplewood,10:47,2,true
+586,Mediterranean,cheap,Hillcrest,11:22,3,false
+587,Greek,expensive,Maplewood,10:27,1,true
+588,Greek,expensive,Meadowbrook,9:23,4,false
+589,French,medium,Riverdale,7:28,1,true
+590,Thai,expensive,Willow Creek,11:00,2,true
+591,American,cheap,Lakeside,9:44,1,true
+592,Italian,medium,Sunset Hills,7:36,2,true
+593,Italian,expensive,Willow Creek,12:42,2,false
+594,Chinese,cheap,Cedar Grove,11:08,4,false
+595,Mexican,expensive,Maplewood,10:14,2,false
+596,Indian,cheap,Meadowbrook,8:48,3,true
+597,Italian,cheap,Oakwood,12:10,3,true
+598,Indian,cheap,Lakeside,12:16,3,true
+599,Italian,expensive,Hillcrest,8:41,1,false
+600,French,medium,Oakwood,12:40,1,true
+601,Italian,medium,Pine Ridge,7:00,4,false
+602,Mediterranean,cheap,Cedar Grove,12:57,5,false
+603,Japanese,expensive,Willow Creek,11:38,4,true
+604,Mediterranean,medium,Maplewood,11:04,2,false
+605,Thai,medium,Hillcrest,12:15,1,true
+606,Mediterranean,cheap,Cedar Grove,11:42,2,true
+607,Japanese,expensive,Sunset Hills,7:53,2,true
+608,Japanese,expensive,Hillcrest,12:56,3,true
+609,French,medium,Lakeside,11:01,2,true
+610,Indian,expensive,Lakeside,7:15,4,true
+611,Mexican,medium,Maplewood,7:11,1,true
+612,Thai,cheap,Lakeside,11:06,2,false
+613,Mediterranean,cheap,Lakeside,9:52,1,true
+614,Thai,expensive,Cedar Grove,9:49,3,false
+615,Mediterranean,medium,Lakeside,8:43,3,true
+616,American,expensive,Hillcrest,8:57,3,false
+617,Italian,medium,Willow Creek,9:04,5,false
+618,Indian,expensive,Lakeside,11:24,5,false
+619,Thai,medium,Lakeside,9:37,1,false
+620,Japanese,cheap,Pine Ridge,8:22,1,false
+621,Chinese,cheap,Hillcrest,7:39,3,true
+622,French,expensive,Hillcrest,11:13,4,false
+623,Thai,expensive,Riverdale,7:37,5,true
+624,Greek,cheap,Hillcrest,11:12,2,false
+625,Chinese,medium,Sunset Hills,9:41,2,false
+626,Mediterranean,cheap,Pine Ridge,12:17,1,false
+627,Chinese,medium,Maplewood,8:09,1,true
+628,Chinese,expensive,Meadowbrook,7:04,3,true
+629,American,expensive,Sunset Hills,9:27,5,true
+630,American,expensive,Hillcrest,12:14,1,false
+631,Greek,cheap,Lakeside,11:21,1,false
+632,French,cheap,Riverdale,11:36,1,true
+633,Indian,medium,Willow Creek,9:38,4,true
+634,Chinese,medium,Lakeside,11:21,3,false
+635,Japanese,medium,Maplewood,10:03,2,false
+636,Chinese,expensive,Riverdale,8:46,1,true
+637,Indian,cheap,Sunset Hills,11:37,4,false
+638,Mediterranean,cheap,Lakeside,7:35,1,false
+639,Chinese,cheap,Sunset Hills,12:30,2,true
+640,French,expensive,Sunset Hills,11:03,5,false
+641,Thai,medium,Cedar Grove,10:49,2,false
+642,Indian,medium,Cedar Grove,10:54,1,false
+643,Indian,cheap,Pine Ridge,10:40,2,false
+644,Mediterranean,cheap,Lakeside,11:52,2,true
+645,Mediterranean,cheap,Meadowbrook,7:10,3,false
+646,Japanese,cheap,Oakwood,10:58,5,true
+647,Indian,cheap,Sunset Hills,7:56,3,true
+648,Indian,medium,Riverdale,11:40,2,false
+649,Thai,cheap,Cedar Grove,11:47,2,true
+650,Indian,expensive,Meadowbrook,10:30,4,true
+651,Chinese,medium,Cedar Grove,8:42,1,false
+652,Indian,cheap,Hillcrest,11:07,5,true
+653,Japanese,medium,Cedar Grove,11:14,4,true
+654,Greek,medium,Cedar Grove,8:01,3,true
+655,French,medium,Hillcrest,9:53,3,false
+656,Greek,cheap,Pine Ridge,11:47,1,false
+657,Chinese,cheap,Willow Creek,9:54,4,false
+658,Indian,medium,Pine Ridge,12:25,5,false
+659,American,cheap,Lakeside,10:06,1,false
+660,Indian,expensive,Lakeside,10:20,1,true
+661,Italian,expensive,Willow Creek,10:01,2,false
+662,Chinese,expensive,Oakwood,7:14,1,true
+663,Greek,medium,Sunset Hills,11:45,1,true
+664,Chinese,medium,Hillcrest,9:32,5,true
+665,Greek,medium,Riverdale,9:27,4,false
+666,Indian,medium,Meadowbrook,8:40,2,true
+667,Italian,medium,Hillcrest,7:32,1,false
+668,Chinese,expensive,Meadowbrook,9:31,1,true
+669,Thai,expensive,Oakwood,12:29,5,false
+670,Thai,cheap,Oakwood,7:42,1,true
+671,Chinese,expensive,Maplewood,10:04,4,false
+672,Italian,medium,Pine Ridge,9:27,4,true
+673,French,expensive,Pine Ridge,12:50,3,false
+674,Mediterranean,medium,Pine Ridge,8:52,2,true
+675,Italian,expensive,Oakwood,10:45,1,false
+676,Indian,expensive,Meadowbrook,10:44,4,true
+677,American,medium,Pine Ridge,9:54,3,false
+678,Mediterranean,cheap,Riverdale,9:01,3,true
+679,Indian,medium,Cedar Grove,11:19,1,true
+680,Indian,expensive,Sunset Hills,11:37,4,false
+681,American,cheap,Sunset Hills,11:20,5,true
+682,Indian,cheap,Pine Ridge,11:52,5,true
+683,Mexican,medium,Cedar Grove,10:48,1,false
+684,Greek,cheap,Willow Creek,8:10,5,false
+685,Indian,cheap,Oakwood,7:19,1,false
+686,French,medium,Meadowbrook,7:35,1,true
+687,Mexican,medium,Cedar Grove,12:37,3,false
+688,Thai,medium,Hillcrest,12:01,3,true
+689,Greek,cheap,Pine Ridge,7:25,5,true
+690,Italian,expensive,Maplewood,10:22,2,false
+691,Indian,expensive,Sunset Hills,12:47,1,true
+692,Italian,cheap,Sunset Hills,7:37,3,false
+693,Thai,expensive,Hillcrest,12:13,4,false
+694,Greek,medium,Cedar Grove,10:46,1,true
+695,French,expensive,Cedar Grove,10:30,5,false
+696,French,medium,Pine Ridge,12:53,4,false
+697,Mediterranean,cheap,Sunset Hills,11:12,2,true
+698,American,medium,Riverdale,9:51,2,true
+699,American,cheap,Willow Creek,12:37,3,true
+700,Chinese,medium,Cedar Grove,12:41,1,false
+701,French,medium,Willow Creek,8:25,5,true
+702,Italian,medium,Hillcrest,12:42,1,true
+703,American,cheap,Sunset Hills,7:09,4,false
+704,Indian,cheap,Maplewood,8:02,4,false
+705,Chinese,expensive,Pine Ridge,8:39,1,false
+706,Mediterranean,expensive,Sunset Hills,10:22,1,false
+707,American,cheap,Meadowbrook,7:45,1,false
+708,French,medium,Sunset Hills,7:46,3,false
+709,Indian,medium,Hillcrest,9:07,3,false
+710,Mexican,expensive,Oakwood,9:21,3,true
+711,Indian,cheap,Hillcrest,11:50,3,true
+712,Mexican,cheap,Willow Creek,9:39,1,false
+713,Greek,expensive,Maplewood,11:29,5,false
+714,Mediterranean,cheap,Pine Ridge,8:36,4,true
+715,Mediterranean,medium,Oakwood,8:46,3,false
+716,Mediterranean,expensive,Pine Ridge,8:40,4,false
+717,French,medium,Pine Ridge,7:30,5,false
+718,Japanese,expensive,Lakeside,11:58,2,false
+719,Greek,medium,Willow Creek,8:30,3,true
+720,Japanese,medium,Oakwood,9:33,1,true
+721,Thai,medium,Oakwood,9:11,2,true
+722,Greek,medium,Meadowbrook,9:06,4,true
+723,Mediterranean,medium,Pine Ridge,10:06,2,true
+724,Mediterranean,expensive,Oakwood,8:46,3,true
+725,Mediterranean,cheap,Willow Creek,8:05,1,true
+726,Indian,cheap,Maplewood,7:05,5,false
+727,Thai,medium,Lakeside,8:40,1,true
+728,Greek,cheap,Maplewood,10:49,4,false
+729,Indian,medium,Meadowbrook,9:41,1,true
+730,French,expensive,Willow Creek,12:20,1,false
+731,Thai,expensive,Pine Ridge,8:39,3,false
+732,Chinese,expensive,Willow Creek,12:42,2,false
+733,American,expensive,Sunset Hills,11:59,3,false
+734,American,expensive,Lakeside,8:04,1,true
+735,Mediterranean,expensive,Maplewood,9:04,2,true
+736,Mexican,medium,Hillcrest,11:31,2,false
+737,Italian,medium,Pine Ridge,10:32,3,true
+738,Mediterranean,cheap,Lakeside,9:40,1,false
+739,Japanese,cheap,Cedar Grove,8:32,4,true
+740,Italian,cheap,Sunset Hills,7:42,3,false
+741,Indian,medium,Sunset Hills,12:22,5,true
+742,Thai,medium,Willow Creek,9:38,4,true
+743,Chinese,expensive,Sunset Hills,10:48,2,false
+744,Italian,medium,Pine Ridge,7:31,4,false
+745,Greek,cheap,Sunset Hills,10:17,2,false
+746,French,medium,Willow Creek,7:40,5,false
+747,Mediterranean,cheap,Willow Creek,9:20,3,true
+748,Japanese,medium,Willow Creek,9:15,1,false
+749,Japanese,medium,Willow Creek,11:40,2,true
+750,American,cheap,Meadowbrook,8:15,3,false
+751,Indian,expensive,Maplewood,12:47,5,true
+752,French,medium,Maplewood,11:15,5,false
+753,Italian,expensive,Lakeside,11:05,3,false
+754,Chinese,cheap,Maplewood,8:13,5,true
+755,Japanese,medium,Hillcrest,9:47,5,true
+756,Mediterranean,cheap,Hillcrest,9:43,5,true
+757,Italian,medium,Sunset Hills,12:55,3,false
+758,Thai,cheap,Meadowbrook,7:49,1,true
+759,Indian,expensive,Meadowbrook,12:48,1,true
+760,Thai,medium,Riverdale,9:16,3,false
+761,Indian,cheap,Pine Ridge,11:05,2,false
+762,Mexican,expensive,Hillcrest,8:24,2,false
+763,Mediterranean,expensive,Lakeside,11:05,3,false
+764,Mediterranean,expensive,Lakeside,10:36,3,false
+765,Mexican,cheap,Hillcrest,10:44,4,true
+766,Greek,medium,Lakeside,12:55,5,true
+767,Indian,expensive,Meadowbrook,10:25,5,false
+768,Indian,cheap,Oakwood,8:43,2,false
+769,French,expensive,Riverdale,11:37,4,false
+770,American,medium,Pine Ridge,11:35,4,true
+771,Mexican,medium,Pine Ridge,7:34,4,true
+772,Japanese,medium,Oakwood,11:56,5,false
+773,Chinese,cheap,Riverdale,8:47,4,true
+774,French,medium,Riverdale,10:06,4,true
+775,American,cheap,Pine Ridge,7:44,2,false
+776,French,cheap,Oakwood,11:13,2,true
+777,French,cheap,Oakwood,12:11,5,false
+778,Italian,medium,Willow Creek,12:15,3,false
+779,Mexican,cheap,Cedar Grove,8:04,1,false
+780,Thai,expensive,Sunset Hills,8:14,4,false
+781,American,medium,Pine Ridge,8:42,5,false
+782,French,cheap,Cedar Grove,7:07,1,false
+783,Japanese,expensive,Oakwood,10:30,1,false
+784,Thai,cheap,Sunset Hills,12:20,1,true
+785,Italian,cheap,Oakwood,10:39,3,false
+786,Italian,cheap,Lakeside,8:07,2,true
+787,Mediterranean,medium,Meadowbrook,8:29,2,false
+788,Chinese,cheap,Sunset Hills,9:53,1,false
+789,Chinese,expensive,Pine Ridge,9:36,4,false
+790,Italian,expensive,Meadowbrook,8:35,2,false
+791,Japanese,expensive,Hillcrest,10:16,5,false
+792,Japanese,medium,Cedar Grove,11:46,3,true
+793,Italian,expensive,Oakwood,12:20,2,false
+794,American,medium,Riverdale,9:41,1,true
+795,Italian,cheap,Lakeside,11:49,1,true
+796,Chinese,medium,Meadowbrook,10:36,1,false
+797,Greek,expensive,Riverdale,11:08,2,false
+798,Italian,cheap,Riverdale,10:15,2,true
+799,Greek,cheap,Oakwood,12:37,1,true
+800,American,cheap,Lakeside,9:23,4,true
+801,Chinese,medium,Lakeside,11:36,5,true
+802,French,cheap,Riverdale,10:19,5,true
+803,Mediterranean,cheap,Lakeside,8:33,3,false
+804,Greek,cheap,Maplewood,9:57,2,true
+805,Greek,cheap,Lakeside,7:16,3,false
+806,Mediterranean,expensive,Willow Creek,10:07,5,true
+807,Italian,cheap,Riverdale,8:35,3,true
+808,French,medium,Lakeside,8:20,2,false
+809,Thai,expensive,Meadowbrook,7:34,2,false
+810,American,expensive,Hillcrest,9:53,3,true
+811,Japanese,cheap,Cedar Grove,10:31,5,false
+812,Greek,cheap,Lakeside,7:54,1,false
+813,Indian,expensive,Maplewood,8:20,4,true
+814,Thai,expensive,Lakeside,7:56,1,true
+815,Indian,cheap,Pine Ridge,8:47,1,false
+816,Thai,expensive,Pine Ridge,8:25,1,true
+817,American,medium,Sunset Hills,12:43,2,false
+818,Mediterranean,expensive,Willow Creek,7:46,3,true
+819,Italian,medium,Meadowbrook,8:51,3,false
+820,Mediterranean,expensive,Oakwood,11:14,2,false
+821,American,cheap,Maplewood,10:50,5,false
+822,Thai,cheap,Sunset Hills,12:14,4,true
+823,American,medium,Oakwood,10:10,5,false
+824,Chinese,expensive,Riverdale,7:49,4,false
+825,Italian,cheap,Hillcrest,9:29,1,false
+826,Mediterranean,cheap,Sunset Hills,9:17,5,true
+827,American,medium,Meadowbrook,8:41,5,true
+828,Japanese,medium,Meadowbrook,8:57,4,false
+829,Mediterranean,medium,Riverdale,8:59,4,true
+830,Greek,expensive,Meadowbrook,9:12,2,false
+831,American,medium,Oakwood,10:07,4,true
+832,Mexican,cheap,Meadowbrook,7:59,3,true
+833,Japanese,expensive,Hillcrest,10:16,3,false
+834,Thai,medium,Oakwood,9:51,2,true
+835,Chinese,expensive,Cedar Grove,9:14,4,false
+836,Mexican,medium,Meadowbrook,8:02,1,false
+837,Mediterranean,cheap,Willow Creek,12:28,2,false
+838,French,cheap,Riverdale,11:46,1,true
+839,Italian,medium,Meadowbrook,9:27,4,true
+840,Mediterranean,cheap,Maplewood,10:55,4,false
+841,Italian,expensive,Willow Creek,10:08,2,true
+842,Mediterranean,medium,Hillcrest,12:35,5,false
+843,Indian,medium,Cedar Grove,10:34,4,false
+844,Chinese,cheap,Meadowbrook,11:42,4,true
+845,Thai,cheap,Willow Creek,11:15,5,true
+846,American,cheap,Meadowbrook,8:17,3,true
+847,French,medium,Oakwood,11:38,4,false
+848,Italian,cheap,Meadowbrook,7:03,1,false
+849,Thai,medium,Riverdale,10:32,5,true
+850,Mediterranean,expensive,Riverdale,9:45,3,true
+851,French,cheap,Hillcrest,11:28,5,true
+852,Mediterranean,cheap,Willow Creek,12:33,3,false
+853,Indian,expensive,Lakeside,12:03,4,true
+854,Japanese,medium,Cedar Grove,10:11,1,false
+855,Thai,expensive,Hillcrest,7:08,1,false
+856,Thai,expensive,Meadowbrook,9:30,1,true
+857,Greek,expensive,Oakwood,12:20,2,true
+858,Mexican,cheap,Hillcrest,9:14,4,false
+859,Chinese,cheap,Sunset Hills,11:37,1,false
+860,Italian,expensive,Lakeside,12:58,1,true
+861,Thai,cheap,Meadowbrook,11:29,4,false
+862,Thai,cheap,Hillcrest,10:23,4,true
+863,American,cheap,Hillcrest,9:11,2,true
+864,Mediterranean,cheap,Hillcrest,10:16,4,false
+865,Greek,medium,Oakwood,8:19,5,false
+866,Italian,medium,Hillcrest,8:27,2,true
+867,Indian,medium,Meadowbrook,9:39,5,true
+868,Indian,medium,Meadowbrook,7:07,3,false
+869,Mediterranean,cheap,Cedar Grove,11:46,1,false
+870,Italian,medium,Hillcrest,10:53,3,false
+871,Chinese,medium,Meadowbrook,12:12,1,true
+872,Mediterranean,cheap,Riverdale,11:49,5,false
+873,Indian,expensive,Willow Creek,12:22,3,true
+874,American,medium,Lakeside,7:20,4,false
+875,Japanese,medium,Maplewood,8:38,2,false
+876,Italian,cheap,Maplewood,10:43,1,true
+877,Greek,cheap,Sunset Hills,7:14,1,true
+878,Italian,expensive,Oakwood,7:47,5,false
+879,Italian,medium,Riverdale,9:32,4,true
+880,American,cheap,Hillcrest,11:37,4,false
+881,Chinese,cheap,Hillcrest,8:21,3,true
+882,Italian,expensive,Maplewood,7:37,1,false
+883,Thai,expensive,Hillcrest,11:21,1,true
+884,Mediterranean,cheap,Lakeside,7:47,3,true
+885,Italian,cheap,Meadowbrook,12:39,4,false
+886,Mexican,expensive,Pine Ridge,11:53,5,false
+887,American,medium,Hillcrest,8:09,4,true
+888,Japanese,medium,Riverdale,9:36,3,true
+889,Mediterranean,expensive,Cedar Grove,12:38,3,false
+890,American,cheap,Hillcrest,10:49,1,false
+891,Mexican,cheap,Sunset Hills,9:53,5,false
+892,Mexican,medium,Maplewood,7:13,2,true
+893,Japanese,medium,Lakeside,12:24,1,true
+894,Italian,cheap,Riverdale,10:23,5,true
+895,Indian,cheap,Willow Creek,12:04,2,false
+896,American,medium,Lakeside,7:07,2,true
+897,Thai,expensive,Lakeside,10:23,3,true
+898,American,expensive,Sunset Hills,10:22,4,true
+899,American,medium,Cedar Grove,8:21,1,false
+900,Mediterranean,cheap,Sunset Hills,11:30,4,false
+901,Thai,medium,Lakeside,9:46,4,true
+902,Greek,cheap,Pine Ridge,8:02,4,true
+903,Mexican,medium,Pine Ridge,12:24,2,true
+904,Italian,cheap,Riverdale,8:26,4,false
+905,Mediterranean,expensive,Oakwood,12:29,2,false
+906,Mediterranean,expensive,Willow Creek,12:16,2,true
+907,American,medium,Lakeside,11:41,1,false
+908,French,medium,Pine Ridge,8:10,1,false
+909,French,medium,Lakeside,9:51,1,true
+910,Japanese,cheap,Lakeside,9:06,5,true
+911,Mexican,cheap,Sunset Hills,11:26,2,false
+912,Mediterranean,medium,Pine Ridge,9:27,5,false
+913,Greek,medium,Maplewood,11:59,4,false
+914,French,expensive,Lakeside,7:12,1,true
+915,American,medium,Oakwood,10:54,4,false
+916,Greek,expensive,Maplewood,11:01,5,false
+917,French,medium,Lakeside,9:31,1,false
+918,American,cheap,Oakwood,10:12,4,true
+919,Mexican,medium,Riverdale,7:17,2,true
+920,Mexican,medium,Hillcrest,8:00,1,false
+921,Thai,cheap,Hillcrest,9:23,3,true
+922,Mediterranean,expensive,Sunset Hills,11:07,1,false
+923,Greek,medium,Maplewood,12:33,4,false
+924,Italian,expensive,Riverdale,7:25,3,false
+925,American,cheap,Pine Ridge,8:58,1,true
+926,Indian,medium,Hillcrest,10:25,3,false
+927,Indian,expensive,Oakwood,10:15,2,true
+928,Greek,cheap,Hillcrest,11:03,3,true
+929,Greek,expensive,Lakeside,11:51,1,true
+930,Greek,expensive,Pine Ridge,9:16,4,true
+931,Mediterranean,cheap,Maplewood,9:52,4,true
+932,Thai,medium,Willow Creek,7:44,5,true
+933,Japanese,expensive,Riverdale,9:09,3,true
+934,Italian,cheap,Cedar Grove,7:34,5,true
+935,Mexican,cheap,Pine Ridge,9:42,1,true
+936,Greek,medium,Sunset Hills,8:39,1,true
+937,Japanese,cheap,Oakwood,10:19,4,true
+938,Japanese,cheap,Lakeside,9:07,4,true
+939,Greek,expensive,Pine Ridge,8:07,3,true
+940,Greek,medium,Oakwood,12:32,5,false
+941,Thai,cheap,Lakeside,12:15,4,false
+942,Italian,cheap,Lakeside,9:31,2,false
+943,Greek,expensive,Pine Ridge,9:02,5,true
+944,Mediterranean,expensive,Meadowbrook,12:33,3,true
+945,Japanese,cheap,Meadowbrook,9:55,2,false
+946,Thai,medium,Willow Creek,10:00,4,true
+947,Japanese,expensive,Hillcrest,11:23,3,true
+948,Thai,cheap,Lakeside,9:03,5,false
+949,Japanese,medium,Oakwood,12:49,1,false
+950,French,cheap,Pine Ridge,11:56,1,true
+951,French,cheap,Pine Ridge,10:10,5,false
+952,Mexican,expensive,Cedar Grove,9:01,3,false
+953,Mexican,medium,Lakeside,12:21,2,false
+954,Italian,expensive,Cedar Grove,7:53,3,true
+955,Indian,cheap,Sunset Hills,8:18,3,true
+956,Thai,expensive,Lakeside,9:23,5,false
+957,Thai,expensive,Maplewood,9:25,5,false
+958,Mexican,medium,Cedar Grove,8:56,5,true
+959,Thai,medium,Hillcrest,7:54,2,false
+960,Greek,medium,Cedar Grove,8:52,5,false
+961,Indian,expensive,Hillcrest,10:25,2,true
+962,Mediterranean,medium,Meadowbrook,9:47,2,true
+963,Mediterranean,medium,Maplewood,9:00,1,true
+964,Mexican,medium,Sunset Hills,11:22,4,false
+965,Thai,expensive,Pine Ridge,12:33,4,true
+966,Chinese,medium,Pine Ridge,11:43,1,true
+967,French,cheap,Oakwood,11:29,4,false
+968,American,cheap,Lakeside,11:40,1,true
+969,American,cheap,Lakeside,9:13,3,false
+970,French,medium,Cedar Grove,8:48,1,false
+971,Mexican,medium,Hillcrest,7:29,3,false
+972,Indian,expensive,Cedar Grove,9:14,2,false
+973,Japanese,expensive,Meadowbrook,10:57,3,false
+974,Mexican,medium,Cedar Grove,11:05,2,true
+975,Mediterranean,medium,Oakwood,11:42,1,true
+976,French,cheap,Sunset Hills,10:41,5,true
+977,Greek,cheap,Lakeside,8:05,4,true
+978,Japanese,expensive,Willow Creek,8:20,4,true
+979,American,medium,Hillcrest,7:42,4,true
+980,Greek,cheap,Cedar Grove,9:01,3,true
+981,American,expensive,Cedar Grove,12:04,3,true
+982,Greek,cheap,Hillcrest,9:43,5,false
+983,American,medium,Maplewood,9:57,1,false
+984,American,expensive,Cedar Grove,11:31,5,true
+985,Thai,expensive,Willow Creek,9:05,3,true
+986,American,expensive,Riverdale,12:40,3,false
+987,French,cheap,Willow Creek,7:05,5,false
+988,French,cheap,Willow Creek,8:24,3,false
+989,Greek,cheap,Sunset Hills,7:28,3,false
+990,Mexican,medium,Oakwood,7:14,5,true
+991,Mediterranean,medium,Lakeside,8:38,2,true
+992,French,cheap,Riverdale,12:16,1,true
+993,Indian,medium,Sunset Hills,10:47,4,false
+994,Italian,cheap,Willow Creek,11:04,2,false
+995,Greek,medium,Cedar Grove,10:14,1,false
+996,Greek,medium,Meadowbrook,7:49,3,false
+997,Chinese,expensive,Pine Ridge,7:26,4,false
+998,American,medium,Pine Ridge,8:51,2,true
+999,Japanese,cheap,Riverdale,8:47,2,true
+1000,Mexican,cheap,Cedar Grove,10:10,4,true

@@ -1,5 +1,16 @@
 # SQL CRUD
 
-An assignment to design relational database tables with particular applications in mind.
+Here is my mock dataset["]
 
-The contents of this file will be deleted and replaced with the content described in the [instructions](./instructions.md)
+## SQL code
+.mode csv
+CREATE TABLE restaurant (
+    id INTEGER PRIMARY KEY,
+    category TEXT,
+    price_tier TEXT,
+    neighborhood TEXT,
+    opening_hours TEXT,
+    average_rating INTEGER,
+    good_for_kids BOOLEAN
+);
+.import '/Users/quanquanxie/Documents/GitHub/4-sql-crud-Victoriaxqq/data/restaurants_no_header.csv' restaurant
