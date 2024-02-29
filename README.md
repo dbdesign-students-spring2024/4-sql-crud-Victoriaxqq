@@ -53,7 +53,7 @@ GROUP BY neighborhood;
 ## SQL code of Social media app
 
 Here is my mock [dataset](https://github.com/dbdesign-students-spring2024/4-sql-crud-Victoriaxqq/blob/505a7b22c0b1ead9f2264ee719fc19b05ce28c5c/data/user.csv) of user
-Here is my mock [dataset]() of post
+Here is my mock [dataset](https://github.com/dbdesign-students-spring2024/4-sql-crud-Victoriaxqq/blob/8701877c713caac4149336f3b003fe261b0bd751/data/posts.csv) of post
 
 ### Create users table
 CREATE TABLE users (
@@ -74,7 +74,7 @@ CREATE TABLE posts (
     visibility BOOLEAN DEFAULT true,
     creation_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
-.import '' posts
+.import '/Users/quanquanxie/Documents/GitHub/4-sql-crud-Victoriaxqq/data/posts.csv' posts
 
 ### Query 1 Register a new User
 INSERT INTO users (email, password, handle)
