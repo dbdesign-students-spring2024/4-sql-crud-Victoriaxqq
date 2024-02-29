@@ -1,6 +1,6 @@
 # SQL CRUD
 
-Here is my mock [dataset]()
+Here is my mock [dataset](https://github.com/dbdesign-students-spring2024/4-sql-crud-Victoriaxqq/blob/505a7b22c0b1ead9f2264ee719fc19b05ce28c5c/data/restaurants.csv)
 
 ## SQL code of Restaurant finder
 ### Create restaurants table
@@ -52,7 +52,7 @@ GROUP BY neighborhood;
 
 ## SQL code of Social media app
 
-Here is my mock [dataset]() of user
+Here is my mock [dataset](https://github.com/dbdesign-students-spring2024/4-sql-crud-Victoriaxqq/blob/505a7b22c0b1ead9f2264ee719fc19b05ce28c5c/data/user.csv) of user
 Here is my mock [dataset]() of post
 
 ### Create users table
@@ -66,19 +66,75 @@ CREATE TABLE users (
 
 ### Create posts table
 CREATE TABLE posts (
-    post_id INT PRIMARY KEY,
-    user_id_sender INT NOT NULL,
-    user_id_receiver INT,
+    id INTEGER PRIMARY KEY,
+    id_sender INTEGER NOT NULL,
+    id_receiver INTEGER,
     content TEXT NOT NULL,
-    post_type VARCHAR(10) NOT NULL, -- Change the size as needed
+    post_type TEXT NOT NULL, 
     visibility BOOLEAN DEFAULT true,
     creation_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+.import '' posts
 
 ### Query 1 Register a new User
 INSERT INTO users (email, password, handle)
 VALUES ('AAA@user.com', 'AAAAA', 'userA'); 
 
-###
-INSERT INTO Posts (UserFrom, UserTo, ContentType, Content)
-VALUES ('User1', 'User2', 'Message', 'This is a new message.');
+### Query 2 Create a new Message sent by a particular User to a particular User (pick any two Users for example)
+INSERT INTO posts (id_sender, id_receiver, content, post_type)
+VALUES (1, 2, 'Hello, how are you?', 'message');
+
+### Query 3 Create a new Story by a particular User (pick any User for example)
+INSERT INTO posts (id_sender, content, post_type)
+VALUES (1, 'This is my story for today!', 'story');
+
+### Query 4 Show the 10 most recent visible Messages and Stories, in order of recency 
+SELECT posts.id, posts.id_sender, posts.id_receiver, posts.content, posts.post_type, posts.visibility, posts.creation_time
+FROM posts
+JOIN users ON posts.id_sender = users.id
+WHERE posts.visibility = true
+ORDER BY posts.creation_time DESC
+LIMIT 10;
+
+### Query 5 Show the 10 most recent visible Messages sent by a particular User to a particular User (pick any two Users for example), in order of recency
+SELECT posts.id, posts.id_sender, posts.id_receiver, posts.content, posts.post_type, posts.visibility, posts.creation_time
+FROM posts
+WHERE posts.visibility = true
+  AND posts.post_type = 'message'
+  AND posts.id_sender = 1
+  AND posts.id_receiver = 2
+ORDER BY posts.creation_time DESC
+LIMIT 10;
+
+### Query 6 Make all Stories that are more than 24 hours old invisible
+UPDATE posts
+SET visibility = false
+WHERE post_type = 'story'
+  AND TIMESTAMPDIFF(HOUR, creation_time, CURRENT_TIMESTAMP) > 24;
+
+### Query 7 Show all invisible Messages and Stories, in order of recency
+SELECT *
+FROM posts
+WHERE visibility = false
+ORDER BY creation_time DESC;
+
+### Query 8 Show the number of posts by each User
+SELECT COALESCE(id_sender, id_receiver) AS user_id, COUNT(*) AS post_count
+FROM posts
+GROUP BY user_id;
+
+### Query 9 Show the post text and email address of all posts and the User who made them within the last 24 hours
+SELECT posts.content AS post_text, users.email, posts.creation_time
+FROM posts
+JOIN users ON posts.id_sender = users.id
+WHERE posts.creation_time >= CURRENT_TIMESTAMP - INTERVAL 24 HOUR;
+
+### Query 10 Show the email addresses of all Users who have not posted anything yet
+SELECT users.email
+FROM users
+LEFT JOIN posts ON users.id = posts.id_sender
+WHERE posts.post_id IS NULL;
+
+
+
+
